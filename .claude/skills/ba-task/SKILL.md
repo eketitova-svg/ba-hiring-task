@@ -323,6 +323,8 @@ Then tell the candidate:
 >
 > Replace `your-name` with your actual name. Then send the branch name (or the PR link if GitHub auto-creates one) to the person who sent you this task.
 >
+> **If you get a permission error (403) when pushing:** your GitHub account needs to be added as a collaborator on this repo. Reply to the email you received with your GitHub username — someone will add you and you can push again. Your commit is already saved locally, so nothing is lost.
+>
 > What happens next: Katya — your future manager if you join — will review your submission within 72 hours and get back to you, or the recruiter will. If things look good, the next step is a 60-minute conversation with Katya. You'll walk through your work together, go deeper on the reflection questions if you skipped them here, and work through part of this scenario again in real time — so be ready for that.
 >
 > Thank you for taking the time to do this — and good luck with the next step."
