@@ -16,7 +16,7 @@ This is an interactive take-home task for the Senior BA/SA position. Instead of 
 
 ```bash
 # 1. Clone this repo
-git clone <repo-url>
+git clone https://github.com/eketitova-svg/ba-hiring-task
 cd ba-hiring-task
 
 # 2. Open Claude Code in this folder
