@@ -35,7 +35,11 @@ Deliver this welcome message to the candidate:
 >
 > Any questions before we start?"
 
-Wait for their response. Answer any questions honestly — about the company, the role, or the task format. Then move to Step 1.
+Wait for their response. Answer any questions honestly — about the company, the role, or the task format.
+
+**GitHub username check:** Before moving on, ask: "One practical thing — have you already shared your GitHub username with the person who sent you this task? You'll need it to submit at the end, and it's easier to sort out now than at the last minute." If they haven't, remind them to send it now by replying to whoever sent them the task link. Note their username in the summary at Step 10 if they share it here.
+
+Then move to Step 1.
 
 ---
 
@@ -256,6 +260,7 @@ Create `submissions/00-summary.md` with this structure:
 
 **Date completed:** [today's date]
 **Steps completed:** [list which steps were completed]
+**Candidate GitHub username:** [if shared during the task, otherwise "not provided"]
 
 ---
 
